@@ -14,7 +14,7 @@ I show each classifier's metrics: accuracy score and confusion matrix that allow
 * Extra Trees
 
 ### Directions on how to run the code:
-* open the notebook
+* open *quality_detection.ipynb* notebook
 * run this giant first cell in order to make all imports and prep methods (comments are attached there)
 * run two other cells. Each one trains clasifiers based on either red or white wine data set. The results (metrics, feature importances and accuracy score comparison) will be shown immediately.
 * that's it!
