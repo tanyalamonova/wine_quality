@@ -4,7 +4,7 @@ This project is made to predict wine quality based on different characteristics.
 The code is on Python3, I used sklearn to train models, predict quality and show metrics in order to compare the results. Confusion matrixes and feature importances graphes are shown using matplotlib.\
 I show each classifier's metrics: accuracy score and confusion matrix that allow us to see which model performed better.\
 *All the findings and conclusions are at the end of the notebook.*\
-\
+
 ### Classifiers used in this project:
 * Support Vector classifier
 * Naive Bayes
@@ -12,7 +12,7 @@ I show each classifier's metrics: accuracy score and confusion matrix that allow
 * Random Forest
 * Ada boost
 * Extra Trees\
-\
+
 ### Directions on how to run the code:
 * open the notebook
 * run this giant first cell in order to make all imports and prep methods (comments are attached there)
