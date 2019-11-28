@@ -1,6 +1,6 @@
 # wine_quality
 
-This project is made to predict wine quality based on different characteristics. I used [Wine qality data set](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) to train classifiers.
+This project is made to predict wine quality based on different characteristics. I used [Wine quality data set](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) to train classifiers.
 
 The code is on Python3, I used sklearn to train models, predict quality and show metrics in order to compare the results. Confusion matrixes and feature importances graphes are shown using matplotlib.
 I show each classifier's metrics: accuracy score and confusion matrix that allow us to see which model performed better.
